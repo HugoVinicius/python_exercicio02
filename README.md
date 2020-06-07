@@ -1,4 +1,4 @@
-# django_sample
+# Exercicio 2 django
 
 Para criar um novo virtual env:
 
@@ -14,6 +14,7 @@ Linux:
 
 $ DIRETORIO/bin/activate
 
+Não esquecer:
 
 1º - Criar projeto: python manage.py startapp nomeprojeto
 
